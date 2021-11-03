@@ -1,0 +1,99 @@
+[uvicorn.error server:64]
+	 Started server process [13952] 
+
+[uvicorn.error on:26]
+	 Waiting for application startup. 
+
+[uvicorn.error on:38]
+	 Application startup complete. 
+
+[uvicorn.error server:150]
+	 [Errno 98] error while attempting to bind on address ('127.0.0.1', 8000): address already in use 
+
+[uvicorn.error on:43]
+	 Waiting for application shutdown. 
+
+[uvicorn.error on:46]
+	 Application shutdown complete. 
+
+[uvicorn.error server:64]
+	 Started server process [14083] 
+
+[uvicorn.error on:26]
+	 Waiting for application startup. 
+
+[uvicorn.error on:38]
+	 Application startup complete. 
+
+[uvicorn.error server:150]
+	 [Errno 98] error while attempting to bind on address ('127.0.0.1', 8000): address already in use 
+
+[uvicorn.error on:43]
+	 Waiting for application shutdown. 
+
+[uvicorn.error on:46]
+	 Application shutdown complete. 
+
+[uvicorn.error server:64]
+	 Started server process [14556] 
+
+[uvicorn.error on:26]
+	 Waiting for application startup. 
+
+[uvicorn.error on:38]
+	 Application startup complete. 
+
+[uvicorn.error server:150]
+	 [Errno 98] error while attempting to bind on address ('127.0.0.1', 8000): address already in use 
+
+[uvicorn.error on:43]
+	 Waiting for application shutdown. 
+
+[uvicorn.error on:46]
+	 Application shutdown complete. 
+
+[uvicorn.error server:64]
+	 Started server process [15068] 
+
+[uvicorn.error on:26]
+	 Waiting for application startup. 
+
+[uvicorn.error on:38]
+	 Application startup complete. 
+
+[uvicorn.error server:150]
+	 [Errno 98] error while attempting to bind on address ('127.0.0.1', 8000): address already in use 
+
+[uvicorn.error on:43]
+	 Waiting for application shutdown. 
+
+[uvicorn.error on:46]
+	 Application shutdown complete. 
+
+[uvicorn.error server:64]
+	 Started server process [15232] 
+
+[uvicorn.error on:26]
+	 Waiting for application startup. 
+
+[uvicorn.error on:38]
+	 Application startup complete. 
+
+[uvicorn.error server:199]
+	 Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit) 
+
+[root api:60]
+	 File Format not valid. Image must be jpg or png format!: 127.0.0.1 at Wed Nov  3 10:43:52 2021 
+
+[uvicorn.error server:239]
+	 Shutting down 
+
+[uvicorn.error on:43]
+	 Waiting for application shutdown. 
+
+[uvicorn.error on:46]
+	 Application shutdown complete. 
+
+[uvicorn.error server:74]
+	 Finished server process [15232] 
+
